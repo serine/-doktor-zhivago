@@ -17,7 +17,7 @@ p_tags = soup.findAll('p')
 header = False
 
 for tag in p_tags:
-    if "ПЕРВАЯ КНИГА" in tag.text:
+    if  "КНИГА" in tag.text:
         print(str(tag).strip().replace("<p>", "#").replace("</p>", "") + " {-}")
         print()
     elif "ЧАСТЬ" in tag.text:
