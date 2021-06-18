@@ -1,0 +1,6 @@
+book_filename: "doktor-zhivago"
+output_dir: "../_book"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Section"

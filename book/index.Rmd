@@ -1,0 +1,12 @@
+---
+title: "Доктор Живаго"
+author: "Борис Пастернак"
+date: "1945—1955"
+site: bookdown::bookdown_site
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+description: "https://boris-pasternak.su/proza/doktor-zhivago"
+---
+
+# {-}
