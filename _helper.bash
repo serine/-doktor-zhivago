@@ -32,7 +32,7 @@ add_worktree() {
 
   echo "MSG: Adding new worktree"
   rm -rf _book
-  git worktree add -B gh-pages _book origin/gh-pages
+  git worktree add -B gh-pages _book
 
 }
 
